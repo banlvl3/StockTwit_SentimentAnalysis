@@ -1,0 +1,911 @@
+[
+    {
+        "label": "urllib2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib2",
+        "description": "urllib2",
+        "detail": "urllib2",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "SklearnClassifier",
+        "importPath": "nltk.classify.scikitlearn",
+        "description": "nltk.classify.scikitlearn",
+        "isExtraImport": true,
+        "detail": "nltk.classify.scikitlearn",
+        "documentation": {}
+    },
+    {
+        "label": "SklearnClassifier",
+        "importPath": "nltk.classify.scikitlearn",
+        "description": "nltk.classify.scikitlearn",
+        "isExtraImport": true,
+        "detail": "nltk.classify.scikitlearn",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "MultinomialNB",
+        "importPath": "sklearn.naive_bayes",
+        "description": "sklearn.naive_bayes",
+        "isExtraImport": true,
+        "detail": "sklearn.naive_bayes",
+        "documentation": {}
+    },
+    {
+        "label": "BernoulliNB",
+        "importPath": "sklearn.naive_bayes",
+        "description": "sklearn.naive_bayes",
+        "isExtraImport": true,
+        "detail": "sklearn.naive_bayes",
+        "documentation": {}
+    },
+    {
+        "label": "MultinomialNB",
+        "importPath": "sklearn.naive_bayes",
+        "description": "sklearn.naive_bayes",
+        "isExtraImport": true,
+        "detail": "sklearn.naive_bayes",
+        "documentation": {}
+    },
+    {
+        "label": "BernoulliNB",
+        "importPath": "sklearn.naive_bayes",
+        "description": "sklearn.naive_bayes",
+        "isExtraImport": true,
+        "detail": "sklearn.naive_bayes",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "SGDClassifier",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "SGDClassifier",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "LinearSVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "NuSVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "LinearSVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "NuSVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "ClassifierI",
+        "importPath": "nltk.classify",
+        "description": "nltk.classify",
+        "isExtraImport": true,
+        "detail": "nltk.classify",
+        "documentation": {}
+    },
+    {
+        "label": "ClassifierI",
+        "importPath": "nltk.classify",
+        "description": "nltk.classify",
+        "isExtraImport": true,
+        "detail": "nltk.classify",
+        "documentation": {}
+    },
+    {
+        "label": "mode",
+        "importPath": "statistics",
+        "description": "statistics",
+        "isExtraImport": true,
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "mode",
+        "importPath": "statistics",
+        "description": "statistics",
+        "isExtraImport": true,
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "stopwords",
+        "importPath": "nltk.corpus",
+        "description": "nltk.corpus",
+        "isExtraImport": true,
+        "detail": "nltk.corpus",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.animation",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.animation",
+        "description": "matplotlib.animation",
+        "detail": "matplotlib.animation",
+        "documentation": {}
+    },
+    {
+        "label": "style",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "SentimentModule",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "SentimentModule",
+        "description": "SentimentModule",
+        "detail": "SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "get_tweets",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "def get_tweets(ticker):\n    url = \"https://api.stocktwits.com/api/2/streams/symbol/{0}.json\".format(ticker)\n    connection = urllib2.urlopen(url)\n    data = connection.read()\n    connection.close()\n    return json.loads(data)\ndef get_tweets_list_for_test(tickers):\n    ret = {}\n    for ticker in tickers:\n        print \"Getting data for\", ticker",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "get_tweets_list_for_test",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "def get_tweets_list_for_test(tickers):\n    ret = {}\n    for ticker in tickers:\n        print \"Getting data for\", ticker\n        try:\n            data = get_tweets(ticker)\n            symbol = data['symbol']['symbol']\n            msgs = []\n            for i in range(len(data['messages'])):\n                if data['messages'][i]['entities']['sentiment'] is None:",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "get_tweets_list_for_train_bullish",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "def get_tweets_list_for_train_bullish(tickers):\n    ret = {}\n    for ticker in tickers:\n        print \"Getting data for\", ticker\n        try:\n            data = get_tweets(ticker)\n            symbol = data['symbol']['symbol']\n            msgs = []\n            for i in range(len(data['messages'])):\n                if data['messages'][i]['entities']['sentiment'] is not None:",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "get_tweets_list_for_train_bearish",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "def get_tweets_list_for_train_bearish(tickers):\n    ret = {}\n    for ticker in tickers:\n        print \"Getting data for\", ticker\n        try:\n            data = get_tweets(ticker)\n            symbol = data['symbol']['symbol']\n            msgs = []\n            for i in range(len(data['messages'])):\n                if data['messages'][i]['entities']['sentiment'] is not None:    ",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "append",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "def append(original, msgs):\n    print \"Appending tweets\"\n    for ticker in msgs.keys():\n        if ticker not in original.keys():\n            original[ticker] = msgs[ticker]\n        else:\n            for msg in msgs[ticker]:\n                if msg not in original[ticker]:  # check for duplicates\n                    original[ticker].append(msg)\n    return original",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "def read_file(filename):\n    with open(filename, 'r') as f:\n        return json.load(f)\ndef write_file(filename, d):\n    with open(filename, 'w+') as f:\n        print \"Dumping DATA to\", filename\n        json.dump(d, f)\nif __name__ == \"__main__\":\n    # Generate Test Data Set\n    old_test = read_file(TEST_DATA_FILENAME)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "write_file",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "def write_file(filename, d):\n    with open(filename, 'w+') as f:\n        print \"Dumping DATA to\", filename\n        json.dump(d, f)\nif __name__ == \"__main__\":\n    # Generate Test Data Set\n    old_test = read_file(TEST_DATA_FILENAME)\n    new_test = get_tweets_list_for_test(names)\n    #print \"Test Data Set : \", json.dumps(new_test)\n    new_test = append(old_test, new_test)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_DATA_FILENAME",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "TEST_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/test_data.json\" \nBEARISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bearish_train_data_.json\" \nBULLISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bullish_train_data_.json\"\nnames = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\",\"CTSH\"]\ndef get_tweets(ticker):\n    url = \"https://api.stocktwits.com/api/2/streams/symbol/{0}.json\".format(ticker)\n    connection = urllib2.urlopen(url)\n    data = connection.read()\n    connection.close()\n    return json.loads(data)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "BEARISH_TRAIN_DATA_FILENAME",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "BEARISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bearish_train_data_.json\" \nBULLISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bullish_train_data_.json\"\nnames = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\",\"CTSH\"]\ndef get_tweets(ticker):\n    url = \"https://api.stocktwits.com/api/2/streams/symbol/{0}.json\".format(ticker)\n    connection = urllib2.urlopen(url)\n    data = connection.read()\n    connection.close()\n    return json.loads(data)\ndef get_tweets_list_for_test(tickers):",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "BULLISH_TRAIN_DATA_FILENAME",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "BULLISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bullish_train_data_.json\"\nnames = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\",\"CTSH\"]\ndef get_tweets(ticker):\n    url = \"https://api.stocktwits.com/api/2/streams/symbol/{0}.json\".format(ticker)\n    connection = urllib2.urlopen(url)\n    data = connection.read()\n    connection.close()\n    return json.loads(data)\ndef get_tweets_list_for_test(tickers):\n    ret = {}",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "description": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "peekOfCode": "names = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\",\"CTSH\"]\ndef get_tweets(ticker):\n    url = \"https://api.stocktwits.com/api/2/streams/symbol/{0}.json\".format(ticker)\n    connection = urllib2.urlopen(url)\n    data = connection.read()\n    connection.close()\n    return json.loads(data)\ndef get_tweets_list_for_test(tickers):\n    ret = {}\n    for ticker in tickers:",
+        "detail": "com.pavanpkulkarni.stocktwit.CreateDataSets",
+        "documentation": {}
+    },
+    {
+        "label": "VoteClassifier",
+        "kind": 6,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "class VoteClassifier(ClassifierI):\n    def __init__(self, *classifiers):\n        self._classifiers = classifiers\n    def classify(self, features):\n        votes = []\n        for c in self._classifiers:\n            v = c.classify(features)\n            votes.append(v)\n        return mode(votes)\n    def confidence(self, features):",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "find_features",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "def find_features(document):\n    words = word_tokenize(document)\n    features = {}\n    for w in word_features:\n        features[w] = (w in words)\n    return features\nfeaturesets = [(find_features(rev), category) for (rev, category) in all_tweets]\nprint \"Started pickling featuresets\"\nsave_featuresets = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/featuresets.pickle\",\"wb\")\npickle.dump(featuresets, save_featuresets)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_DATA_FILENAME",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "TEST_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/test_data.json\" \nBEARISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bearish_train_data_.json\" \nBULLISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bullish_train_data_.json\"\nnames = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\"]\nclass VoteClassifier(ClassifierI):\n    def __init__(self, *classifiers):\n        self._classifiers = classifiers\n    def classify(self, features):\n        votes = []\n        for c in self._classifiers:",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "BEARISH_TRAIN_DATA_FILENAME",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "BEARISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bearish_train_data_.json\" \nBULLISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bullish_train_data_.json\"\nnames = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\"]\nclass VoteClassifier(ClassifierI):\n    def __init__(self, *classifiers):\n        self._classifiers = classifiers\n    def classify(self, features):\n        votes = []\n        for c in self._classifiers:\n            v = c.classify(features)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "BULLISH_TRAIN_DATA_FILENAME",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "BULLISH_TRAIN_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/bullish_train_data_.json\"\nnames = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\"]\nclass VoteClassifier(ClassifierI):\n    def __init__(self, *classifiers):\n        self._classifiers = classifiers\n    def classify(self, features):\n        votes = []\n        for c in self._classifiers:\n            v = c.classify(features)\n            votes.append(v)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "names = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\"]\nclass VoteClassifier(ClassifierI):\n    def __init__(self, *classifiers):\n        self._classifiers = classifiers\n    def classify(self, features):\n        votes = []\n        for c in self._classifiers:\n            v = c.classify(features)\n            votes.append(v)\n        return mode(votes)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "bullish_pos",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "bullish_pos = json.load(open(BULLISH_TRAIN_DATA_FILENAME))\nbearish_neg = json.load(open(BEARISH_TRAIN_DATA_FILENAME))\n# move this up here\nall_words = []\ndocuments_bull = \"\"\ndocuments_bear = \"\"\nall_tweets = []      \n#  j is adject, r is adverb, and v is verb\nallowed_word_types = [\"J\",\"R\",\"V\",\"N\"]\n#allowed_word_types = [\"J\",\"R\",\"V\"]",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "bearish_neg",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "bearish_neg = json.load(open(BEARISH_TRAIN_DATA_FILENAME))\n# move this up here\nall_words = []\ndocuments_bull = \"\"\ndocuments_bear = \"\"\nall_tweets = []      \n#  j is adject, r is adverb, and v is verb\nallowed_word_types = [\"J\",\"R\",\"V\",\"N\"]\n#allowed_word_types = [\"J\",\"R\",\"V\"]\nfor i in names:",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "all_words = []\ndocuments_bull = \"\"\ndocuments_bear = \"\"\nall_tweets = []      \n#  j is adject, r is adverb, and v is verb\nallowed_word_types = [\"J\",\"R\",\"V\",\"N\"]\n#allowed_word_types = [\"J\",\"R\",\"V\"]\nfor i in names:\n    for j in range(len(bullish_pos[i])):\n        all_tweets.append((bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"), bullish_pos[i][j]['entities']['sentiment']['basic'].encode(\"ascii\", \"ignore\")))",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "documents_bull",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "documents_bull = \"\"\ndocuments_bear = \"\"\nall_tweets = []      \n#  j is adject, r is adverb, and v is verb\nallowed_word_types = [\"J\",\"R\",\"V\",\"N\"]\n#allowed_word_types = [\"J\",\"R\",\"V\"]\nfor i in names:\n    for j in range(len(bullish_pos[i])):\n        all_tweets.append((bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"), bullish_pos[i][j]['entities']['sentiment']['basic'].encode(\"ascii\", \"ignore\")))\n        words = word_tokenize(bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"))",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "documents_bear",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "documents_bear = \"\"\nall_tweets = []      \n#  j is adject, r is adverb, and v is verb\nallowed_word_types = [\"J\",\"R\",\"V\",\"N\"]\n#allowed_word_types = [\"J\",\"R\",\"V\"]\nfor i in names:\n    for j in range(len(bullish_pos[i])):\n        all_tweets.append((bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"), bullish_pos[i][j]['entities']['sentiment']['basic'].encode(\"ascii\", \"ignore\")))\n        words = word_tokenize(bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"))\n        filtered_words = [word for word in words if word not in stopwords.words('english')]",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "all_tweets",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "all_tweets = []      \n#  j is adject, r is adverb, and v is verb\nallowed_word_types = [\"J\",\"R\",\"V\",\"N\"]\n#allowed_word_types = [\"J\",\"R\",\"V\"]\nfor i in names:\n    for j in range(len(bullish_pos[i])):\n        all_tweets.append((bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"), bullish_pos[i][j]['entities']['sentiment']['basic'].encode(\"ascii\", \"ignore\")))\n        words = word_tokenize(bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"))\n        filtered_words = [word for word in words if word not in stopwords.words('english')]\n        pos = nltk.pos_tag(filtered_words)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "allowed_word_types",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "allowed_word_types = [\"J\",\"R\",\"V\",\"N\"]\n#allowed_word_types = [\"J\",\"R\",\"V\"]\nfor i in names:\n    for j in range(len(bullish_pos[i])):\n        all_tweets.append((bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"), bullish_pos[i][j]['entities']['sentiment']['basic'].encode(\"ascii\", \"ignore\")))\n        words = word_tokenize(bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"))\n        filtered_words = [word for word in words if word not in stopwords.words('english')]\n        pos = nltk.pos_tag(filtered_words)\n        for w in pos:\n            if w[1][0] in allowed_word_types:",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "#allowed_word_types",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "#allowed_word_types = [\"J\",\"R\",\"V\"]\nfor i in names:\n    for j in range(len(bullish_pos[i])):\n        all_tweets.append((bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"), bullish_pos[i][j]['entities']['sentiment']['basic'].encode(\"ascii\", \"ignore\")))\n        words = word_tokenize(bullish_pos[i][j]['body'].encode(\"ascii\", \"ignore\"))\n        filtered_words = [word for word in words if word not in stopwords.words('english')]\n        pos = nltk.pos_tag(filtered_words)\n        for w in pos:\n            if w[1][0] in allowed_word_types:\n                all_words.append(w[0].lower()) ",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_all_tweets",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_all_tweets = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/all_tweets.pickle\",\"wb\")\npickle.dump(all_tweets, save_all_tweets)\nsave_all_tweets.close()\nprint \"End pickling all_tweets\"\nall_words = nltk.FreqDist(all_words)\n#print \"Most COmmon 200 Words [FreqDistribution] : \", all_words.most_common(200)\nword_features = list(all_words.keys())[:5000]\n#print \"Word Features : \", len(word_features)\nprint \"Started pickling word_feature\"\nsave_word_features = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/word_features.pickle\",\"wb\")",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "all_words = nltk.FreqDist(all_words)\n#print \"Most COmmon 200 Words [FreqDistribution] : \", all_words.most_common(200)\nword_features = list(all_words.keys())[:5000]\n#print \"Word Features : \", len(word_features)\nprint \"Started pickling word_feature\"\nsave_word_features = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/word_features.pickle\",\"wb\")\npickle.dump(word_features, save_word_features)\nsave_word_features.close()\nprint \"End pickling word_feature\"\ndef find_features(document):",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "word_features",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "word_features = list(all_words.keys())[:5000]\n#print \"Word Features : \", len(word_features)\nprint \"Started pickling word_feature\"\nsave_word_features = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/word_features.pickle\",\"wb\")\npickle.dump(word_features, save_word_features)\nsave_word_features.close()\nprint \"End pickling word_feature\"\ndef find_features(document):\n    words = word_tokenize(document)\n    features = {}",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_word_features",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_word_features = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/word_features.pickle\",\"wb\")\npickle.dump(word_features, save_word_features)\nsave_word_features.close()\nprint \"End pickling word_feature\"\ndef find_features(document):\n    words = word_tokenize(document)\n    features = {}\n    for w in word_features:\n        features[w] = (w in words)\n    return features",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "featuresets",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "featuresets = [(find_features(rev), category) for (rev, category) in all_tweets]\nprint \"Started pickling featuresets\"\nsave_featuresets = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/featuresets.pickle\",\"wb\")\npickle.dump(featuresets, save_featuresets)\nsave_word_features.close()\nprint \"End pickling featuresets\"\nrandom.shuffle(featuresets)\nprint( \"Lenght of featuresets : \", len(featuresets))\ntesting_set = featuresets[:10]\ntraining_set = featuresets[11:]",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_featuresets",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_featuresets = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/featuresets.pickle\",\"wb\")\npickle.dump(featuresets, save_featuresets)\nsave_word_features.close()\nprint \"End pickling featuresets\"\nrandom.shuffle(featuresets)\nprint( \"Lenght of featuresets : \", len(featuresets))\ntesting_set = featuresets[:10]\ntraining_set = featuresets[11:]\n#http://www.nltk.org/_modules/nltk/classify/naivebayes.html\nNaiveBayes_classifier = nltk.NaiveBayesClassifier.train(training_set)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "testing_set",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "testing_set = featuresets[:10]\ntraining_set = featuresets[11:]\n#http://www.nltk.org/_modules/nltk/classify/naivebayes.html\nNaiveBayes_classifier = nltk.NaiveBayesClassifier.train(training_set)\nprint(\"Original Naive Bayes Algo accuracy percent:\", (nltk.classify.accuracy(NaiveBayes_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/NaiveBayes_classifier.pickle\",\"wb\")\npickle.dump(NaiveBayes_classifier, save_classifier)\nsave_classifier.close()\n# http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html\n# The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification). ",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "training_set",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "training_set = featuresets[11:]\n#http://www.nltk.org/_modules/nltk/classify/naivebayes.html\nNaiveBayes_classifier = nltk.NaiveBayesClassifier.train(training_set)\nprint(\"Original Naive Bayes Algo accuracy percent:\", (nltk.classify.accuracy(NaiveBayes_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/NaiveBayes_classifier.pickle\",\"wb\")\npickle.dump(NaiveBayes_classifier, save_classifier)\nsave_classifier.close()\n# http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html\n# The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification). \n# The multinomial distribution normally requires integer feature counts.",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "NaiveBayes_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "NaiveBayes_classifier = nltk.NaiveBayesClassifier.train(training_set)\nprint(\"Original Naive Bayes Algo accuracy percent:\", (nltk.classify.accuracy(NaiveBayes_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/NaiveBayes_classifier.pickle\",\"wb\")\npickle.dump(NaiveBayes_classifier, save_classifier)\nsave_classifier.close()\n# http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html\n# The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification). \n# The multinomial distribution normally requires integer feature counts.\nMNB_classifier = SklearnClassifier(MultinomialNB())\nMNB_classifier.train(training_set)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/NaiveBayes_classifier.pickle\",\"wb\")\npickle.dump(NaiveBayes_classifier, save_classifier)\nsave_classifier.close()\n# http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html\n# The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification). \n# The multinomial distribution normally requires integer feature counts.\nMNB_classifier = SklearnClassifier(MultinomialNB())\nMNB_classifier.train(training_set)\nprint(\"MNB_classifier accuracy percent:\", (nltk.classify.accuracy(MNB_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\",\"wb\")",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "MNB_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "MNB_classifier = SklearnClassifier(MultinomialNB())\nMNB_classifier.train(training_set)\nprint(\"MNB_classifier accuracy percent:\", (nltk.classify.accuracy(MNB_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\",\"wb\")\npickle.dump(MNB_classifier, save_classifier)\nsave_classifier.close()\n# http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html\n# Like MultinomialNB, this classifier is suitable for discrete data. \n# The difference is that while MultinomialNB works with occurrence counts, BernoulliNB is designed for binary/boolean features.\nBernoulliNB_classifier = SklearnClassifier(BernoulliNB())",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\",\"wb\")\npickle.dump(MNB_classifier, save_classifier)\nsave_classifier.close()\n# http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html\n# Like MultinomialNB, this classifier is suitable for discrete data. \n# The difference is that while MultinomialNB works with occurrence counts, BernoulliNB is designed for binary/boolean features.\nBernoulliNB_classifier = SklearnClassifier(BernoulliNB())\nBernoulliNB_classifier.train(training_set)\nprint(\"BernoulliNB_classifier accuracy percent:\", (nltk.classify.accuracy(BernoulliNB_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\",\"wb\")",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "BernoulliNB_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "BernoulliNB_classifier = SklearnClassifier(BernoulliNB())\nBernoulliNB_classifier.train(training_set)\nprint(\"BernoulliNB_classifier accuracy percent:\", (nltk.classify.accuracy(BernoulliNB_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\",\"wb\")\npickle.dump(BernoulliNB_classifier, save_classifier)\nsave_classifier.close()\n#http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html\nLogisticRegression_classifier = SklearnClassifier(LogisticRegression())\nLogisticRegression_classifier.train(training_set)\nprint(\"LogisticRegression_classifier accuracy percent:\", (nltk.classify.accuracy(LogisticRegression_classifier, testing_set))*100)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\",\"wb\")\npickle.dump(BernoulliNB_classifier, save_classifier)\nsave_classifier.close()\n#http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html\nLogisticRegression_classifier = SklearnClassifier(LogisticRegression())\nLogisticRegression_classifier.train(training_set)\nprint(\"LogisticRegression_classifier accuracy percent:\", (nltk.classify.accuracy(LogisticRegression_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\",\"wb\")\npickle.dump(LogisticRegression_classifier, save_classifier)\nsave_classifier.close()",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "LogisticRegression_classifier = SklearnClassifier(LogisticRegression())\nLogisticRegression_classifier.train(training_set)\nprint(\"LogisticRegression_classifier accuracy percent:\", (nltk.classify.accuracy(LogisticRegression_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\",\"wb\")\npickle.dump(LogisticRegression_classifier, save_classifier)\nsave_classifier.close()\n#http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html\n# Similar to SVC with parameter kernel=linear, but implemented in terms of liblinear rather than libsvm, so it has more flexibility \n# in the choice of penalties and loss functions and should scale better to large numbers of samples\nLinearSVC_classifier = SklearnClassifier(LinearSVC())",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\",\"wb\")\npickle.dump(LogisticRegression_classifier, save_classifier)\nsave_classifier.close()\n#http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html\n# Similar to SVC with parameter kernel=linear, but implemented in terms of liblinear rather than libsvm, so it has more flexibility \n# in the choice of penalties and loss functions and should scale better to large numbers of samples\nLinearSVC_classifier = SklearnClassifier(LinearSVC())\nLinearSVC_classifier.train(training_set)\nprint(\"LinearSVC_classifier accuracy percent:\", (nltk.classify.accuracy(LinearSVC_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\",\"wb\")",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "LinearSVC_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "LinearSVC_classifier = SklearnClassifier(LinearSVC())\nLinearSVC_classifier.train(training_set)\nprint(\"LinearSVC_classifier accuracy percent:\", (nltk.classify.accuracy(LinearSVC_classifier, testing_set))*100)\nsave_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\",\"wb\")\npickle.dump(LinearSVC_classifier, save_classifier)\nsave_classifier.close()\nvoted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "save_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "save_classifier = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\",\"wb\")\npickle.dump(LinearSVC_classifier, save_classifier)\nsave_classifier.close()\nvoted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,\n                                  LogisticRegression_classifier,\n                                  LinearSVC_classifier)\nprint(\"voted_classifier accuracy percent:\", (nltk.classify.accuracy(voted_classifier, testing_set))*100)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "voted_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "description": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "peekOfCode": "voted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,\n                                  LogisticRegression_classifier,\n                                  LinearSVC_classifier)\nprint(\"voted_classifier accuracy percent:\", (nltk.classify.accuracy(voted_classifier, testing_set))*100)",
+        "detail": "com.pavanpkulkarni.stocktwit.CreatePickle",
+        "documentation": {}
+    },
+    {
+        "label": "animate",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "description": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "peekOfCode": "def animate(i):\n    pullData = open(\"twitter-out.txt\",\"r\").read()\n    lines = pullData.split('\\n')\n    xar = []\n    yar = []\n    x = 0\n    y = 0\n    for l in lines[-200:]:\n        x += 1\n        if \"Bullish\" in l:",
+        "detail": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "documentation": {}
+    },
+    {
+        "label": "fig",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "description": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "peekOfCode": "fig = plt.figure()\nax1 = fig.add_subplot(1,1,1)\ndef animate(i):\n    pullData = open(\"twitter-out.txt\",\"r\").read()\n    lines = pullData.split('\\n')\n    xar = []\n    yar = []\n    x = 0\n    y = 0\n    for l in lines[-200:]:",
+        "detail": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "documentation": {}
+    },
+    {
+        "label": "ax1",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "description": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "peekOfCode": "ax1 = fig.add_subplot(1,1,1)\ndef animate(i):\n    pullData = open(\"twitter-out.txt\",\"r\").read()\n    lines = pullData.split('\\n')\n    xar = []\n    yar = []\n    x = 0\n    y = 0\n    for l in lines[-200:]:\n        x += 1",
+        "detail": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "documentation": {}
+    },
+    {
+        "label": "ani",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "description": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "peekOfCode": "ani = animation.FuncAnimation(fig, animate, interval=1000)\nplt.show()",
+        "detail": "com.pavanpkulkarni.stocktwit.PlotStreamTwitAPI",
+        "documentation": {}
+    },
+    {
+        "label": "VoteClassifier",
+        "kind": 6,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "class VoteClassifier(ClassifierI):\n    def __init__(self, *classifiers):\n        self._classifiers = classifiers\n    def classify(self, features):\n        votes = []\n        for c in self._classifiers:\n            v = c.classify(features)\n            votes.append(v)\n        return mode(votes)\n    def confidence(self, features):",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "sentiment",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "def sentiment(text):\n    feats = find_features(text)\n    return voted_classifier.classify(feats), voted_classifier.confidence(feats)\ndef find_features(document):\n    words = word_tokenize(document)\n    features = {}\n    for w in word_features:\n        features[w] = (w in words)\n    return features",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "find_features",
+        "kind": 2,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "def find_features(document):\n    words = word_tokenize(document)\n    features = {}\n    for w in word_features:\n        features[w] = (w in words)\n    return features",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "word_features_f",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "word_features_f = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/word_features.pickle\", \"rb\")\nword_features = pickle.load(word_features_f)\nword_features_f.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/NaiveBayes_classifier.pickle\", \"rb\")\nNaiveBayes_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\", \"rb\")\nMNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\", \"rb\")",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "word_features",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "word_features = pickle.load(word_features_f)\nword_features_f.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/NaiveBayes_classifier.pickle\", \"rb\")\nNaiveBayes_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\", \"rb\")\nMNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\", \"rb\")\nBernoulliNB_classifier = pickle.load(open_file)",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "open_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/NaiveBayes_classifier.pickle\", \"rb\")\nNaiveBayes_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\", \"rb\")\nMNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\", \"rb\")\nBernoulliNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\", \"rb\")",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "NaiveBayes_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "NaiveBayes_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\", \"rb\")\nMNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\", \"rb\")\nBernoulliNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\", \"rb\")\nLogisticRegression_classifier = pickle.load(open_file)",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "open_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/MNB_classifier.pickle\", \"rb\")\nMNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\", \"rb\")\nBernoulliNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\", \"rb\")\nLogisticRegression_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\", \"rb\")",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "MNB_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "MNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\", \"rb\")\nBernoulliNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\", \"rb\")\nLogisticRegression_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\", \"rb\")\nLinearSVC_classifier = pickle.load(open_file)",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "open_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/BernoulliNB_classifier.pickle\", \"rb\")\nBernoulliNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\", \"rb\")\nLogisticRegression_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\", \"rb\")\nLinearSVC_classifier = pickle.load(open_file)\nopen_file.close()\nvoted_classifier = VoteClassifier(",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "BernoulliNB_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "BernoulliNB_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\", \"rb\")\nLogisticRegression_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\", \"rb\")\nLinearSVC_classifier = pickle.load(open_file)\nopen_file.close()\nvoted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "open_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LogisticRegression_classifier.pickle\", \"rb\")\nLogisticRegression_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\", \"rb\")\nLinearSVC_classifier = pickle.load(open_file)\nopen_file.close()\nvoted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "LogisticRegression_classifier = pickle.load(open_file)\nopen_file.close()\nopen_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\", \"rb\")\nLinearSVC_classifier = pickle.load(open_file)\nopen_file.close()\nvoted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,\n                                  LogisticRegression_classifier,",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "open_file = open(\"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/all_pickles/LinearSVC_classifier.pickle\", \"rb\")\nLinearSVC_classifier = pickle.load(open_file)\nopen_file.close()\nvoted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,\n                                  LogisticRegression_classifier,\n                                  LinearSVC_classifier)\ndef sentiment(text):",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "LinearSVC_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "LinearSVC_classifier = pickle.load(open_file)\nopen_file.close()\nvoted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,\n                                  LogisticRegression_classifier,\n                                  LinearSVC_classifier)\ndef sentiment(text):\n    feats = find_features(text)",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "voted_classifier",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "description": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "peekOfCode": "voted_classifier = VoteClassifier(\n                                  NaiveBayes_classifier,\n                                  MNB_classifier,\n                                  BernoulliNB_classifier,\n                                  LogisticRegression_classifier,\n                                  LinearSVC_classifier)\ndef sentiment(text):\n    feats = find_features(text)\n    return voted_classifier.classify(feats), voted_classifier.confidence(feats)\ndef find_features(document):",
+        "detail": "com.pavanpkulkarni.stocktwit.SentimentModule",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "description": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "peekOfCode": "names = [\"AAPL\", \"MMM\", \"AXP\", \"T\", \"BA\", \"CAT\", \"CVX\", \"CSCO\", \"KO\", \"DIS\", \"DD\", \"XOM\", \"GE\", \"GS\", \"HD\", \"IBM\", \"INTL\", \"JNJ\", \"JPM\", \"MCD\", \"MRK\", \"MSFT\", \"NKE\", \"PFE\", \"PG\", \"TRV\", \"UTX\", \"UNH\", \"VZ\", \"V\", \"WMT\", \"NVS\", \"TM\", \"PTR\", \"WFC\", \"BABA\",  \"TWTR\", \"FB\", \"GOOG\", \"AAPL\", \"YHOO\", \"BP\", \"PEP\",\"CTSH\"]\nTEST_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/test_data.json\" \ntest_data = json.load(open(TEST_DATA_FILENAME))\nfor i in names:\n    for j in range(len(test_data[i])):\n        tweet = test_data[i][j]['body'].encode(\"ascii\", \"ignore\")\n        sentiment_value, confidence = s.sentiment(tweet)\n        print(tweet, sentiment_value, confidence)",
+        "detail": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_DATA_FILENAME",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "description": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "peekOfCode": "TEST_DATA_FILENAME = \"/Users/pavan/Documents/workspace_hu/StockTwit_SentimentAnalysis/data_set/test_data.json\" \ntest_data = json.load(open(TEST_DATA_FILENAME))\nfor i in names:\n    for j in range(len(test_data[i])):\n        tweet = test_data[i][j]['body'].encode(\"ascii\", \"ignore\")\n        sentiment_value, confidence = s.sentiment(tweet)\n        print(tweet, sentiment_value, confidence)",
+        "detail": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "documentation": {}
+    },
+    {
+        "label": "test_data",
+        "kind": 5,
+        "importPath": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "description": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "peekOfCode": "test_data = json.load(open(TEST_DATA_FILENAME))\nfor i in names:\n    for j in range(len(test_data[i])):\n        tweet = test_data[i][j]['body'].encode(\"ascii\", \"ignore\")\n        sentiment_value, confidence = s.sentiment(tweet)\n        print(tweet, sentiment_value, confidence)",
+        "detail": "com.pavanpkulkarni.stocktwit.StreamStockTwitsAPI",
+        "documentation": {}
+    }
+]
